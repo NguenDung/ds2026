@@ -1,0 +1,8 @@
+[2025-12-04 22:19:36] from client 3: whoami
+[2025-12-04 22:19:36] from client 2: __serverinfo
+[2025-12-04 22:19:36] from client 3: date
+[2025-12-04 22:19:36] from client 3: uname -r
+[2025-12-04 22:19:36] from client 2: pwd
+[2025-12-04 22:19:36] from client 2: __get /etc/hostname
+[2025-12-04 22:19:36] from client 2: __history
+[2025-12-04 22:19:36] from client 2: __help

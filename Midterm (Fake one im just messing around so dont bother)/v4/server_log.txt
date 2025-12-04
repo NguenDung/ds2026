@@ -1,0 +1,11 @@
+[2025-12-04 22:10:50] client 1: __serverinfo
+[2025-12-04 22:10:50] client 2: whoami
+[2025-12-04 22:10:50] client 1: __clients
+[2025-12-04 22:10:50] client 2: date
+[2025-12-04 22:10:50] client 1: pwd
+[2025-12-04 22:10:50] client 2: uname -r
+[2025-12-04 22:10:50] client 1: __get /etc/hostname
+[2025-12-04 22:10:50] client 2: __clients
+[2025-12-04 22:10:50] client 1: __history
+[2025-12-04 22:10:50] client 2: exit
+[2025-12-04 22:10:50] client 1: exit
