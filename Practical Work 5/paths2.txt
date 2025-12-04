@@ -1,0 +1,3 @@
+/usr/bin/python3
+/home/suiikawaii/very/very/long/path/to/some/important/file.txt
+/tmp/x

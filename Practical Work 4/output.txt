@@ -1,0 +1,6 @@
+distributed 1
+hello 2
+of 1
+suikawaii 1
+systems 1
+world 3

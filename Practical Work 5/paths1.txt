@@ -1,0 +1,3 @@
+/home/suiikawaii/file.txt
+/home/suiikawaii/DistributedSystem/WordCount/input1.txt
+/var/log/syslog
